@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Rayo Dorado – Volumen 1</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #f9c70f;
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 3.5rem;
+      margin-bottom: 0.3em;
+      text-shadow: 0 0 8px #f9c70f;
+    }
+    p {
+      font-size: 1.5rem;
+      margin-bottom: 1.5em;
+      font-weight: 700;
+      text-shadow: 0 0 6px #f9c70f;
+    }
+    a.button {
+      background-color: #f9c70f;
+      color: #000;
+      font-weight: 700;
+      font-size: 1.25rem;
+      padding: 15px 40px;
+      border-radius: 50px;
+      text-decoration: none;
+      box-shadow: 0 0 15px #f9c70f;
+      transition: background-color 0.3s ease;
+    }
+    a.button:hover {
+      background-color: #d4ad0d;
+      box-shadow: 0 0 25px #d4ad0d;
+    }
+    footer {
+      margin-top: 3em;
+      font-weight: 700;
+      font-size: 1rem;
+      text-shadow: 0 0 6px #f9c70f;
+    }
+    footer a {
+      color: #f9c70f;
+      text-decoration: none;
+      font-weight: 900;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>RAYO DORADO – Volumen 1</h1>
+  <p>Caí, pero no me apagué. Me encendí.</p>
+  <a class="button" href="https://drive.google.com/uc?export=download&id=1VHpgP20Iqo1wJUTsgv_WE91yBdCuVjii" target="_blank">DESCARGAR LIBRO 📘⚡</a>
+  <footer>
+    Sígueme en Instagram: <a href="https://instagram.com/motivaeze" target="_blank">@motivaeze</a>
+  </footer>
+</body>
+</html>
